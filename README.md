@@ -13,3 +13,6 @@ https://javarevisited.blogspot.com/2011/09/javalangoutofmemoryerror-permgen-spac
 
 
 https://www.guru99.com/clustered-vs-non-clustered-index.html#:~:text=Cluster%20index%20is%20a%20type%20of%20index%20that%20sorts%20the,and%20indices%20at%20another%20location.
+
+
+https://www.geeksforgeeks.org/semaphore-in-java/
