@@ -16,3 +16,8 @@ https://www.guru99.com/clustered-vs-non-clustered-index.html#:~:text=Cluster%20i
 
 
 https://www.geeksforgeeks.org/semaphore-in-java/
+
+
+blocking queue
+
+https://crunchify.com/java-union-of-two-arrays-using-java-collection-class/
