@@ -21,3 +21,7 @@ https://www.geeksforgeeks.org/semaphore-in-java/
 blocking queue
 
 https://crunchify.com/java-union-of-two-arrays-using-java-collection-class/
+
+
+API Gateways
+https://medium.com/dev-genius/microservices-design-api-gateway-pattern-980e8d02bdd5
