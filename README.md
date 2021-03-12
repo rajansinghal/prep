@@ -3,12 +3,14 @@
 Complexities
 http://infotechgems.blogspot.com/2011/11/java-collections-performance-time.html
 
+
 completable future
 https://levelup.gitconnected.com/completablefuture-a-new-era-of-asynchronous-programming-86c2fe23e246
 
 
 HeapDump
 https://dzone.com/articles/how-to-capture-java-heap-dumps-7-options
+
 
 OutofMemoryError
 https://javarevisited.blogspot.com/2011/09/javalangoutofmemoryerror-permgen-space.html#axzz6nlKqzcQo
@@ -23,9 +25,11 @@ https://www.geeksforgeeks.org/semaphore-in-java/
 
 
 blocking queue
-
 https://crunchify.com/java-union-of-two-arrays-using-java-collection-class/
 
 
 API Gateways
 https://medium.com/dev-genius/microservices-design-api-gateway-pattern-980e8d02bdd5
+
+Best Practice for Rest API
+https://phauer.com/2015/restful-api-design-best-practices/
