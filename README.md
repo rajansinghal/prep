@@ -33,3 +33,6 @@ https://medium.com/dev-genius/microservices-design-api-gateway-pattern-980e8d02b
 
 Best Practice for Rest API
 https://phauer.com/2015/restful-api-design-best-practices/
+
+Decorator Design Pattern
+https://www.journaldev.com/1540/decorator-design-pattern-in-java-example
