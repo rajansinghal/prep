@@ -36,3 +36,6 @@ https://phauer.com/2015/restful-api-design-best-practices/
 
 Decorator Design Pattern
 https://www.journaldev.com/1540/decorator-design-pattern-in-java-example
+
+Oauth Grant type 
+https://docs.apigee.com/api-platform/security/oauth/oauth2-videos
