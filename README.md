@@ -39,3 +39,6 @@ https://www.journaldev.com/1540/decorator-design-pattern-in-java-example
 
 Oauth Grant type 
 https://docs.apigee.com/api-platform/security/oauth/oauth2-videos
+
+gRPC GraphQL Rest
+https://www.youtube.com/watch?v=qKHGLDKzBrM
