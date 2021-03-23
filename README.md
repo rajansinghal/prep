@@ -42,3 +42,6 @@ https://docs.apigee.com/api-platform/security/oauth/oauth2-videos
 
 gRPC GraphQL Rest
 https://www.youtube.com/watch?v=qKHGLDKzBrM
+
+Concurrent HashMap
+https://javabypatel.blogspot.com/2016/09/concurrenthashmap-interview-questions.html
