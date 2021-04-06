@@ -45,3 +45,6 @@ https://www.youtube.com/watch?v=qKHGLDKzBrM
 
 Concurrent HashMap
 https://javabypatel.blogspot.com/2016/09/concurrenthashmap-interview-questions.html
+
+Java14 GC
+https://medium.com/leadkaro/z-garbage-collector-zgc-in-java-14-bd8a2fff4943#:~:text=Garbage%20collection%20(GC)%20is%20the,as%20primary%20concurrent%20garbage%20collector.
