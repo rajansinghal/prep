@@ -1,0 +1,81 @@
+Objective
+  desiging the autonomous car driving
+  create a platfarm to take input for car with custom attribute and perform testing (or perform particular tagged test scenario)
+  Tagging a particular test scenario
+
+
+CAR DRIVING ATTRIBUTE
+
+  STEERING
+  BREAK
+  ACCELERATION
+
+CAR ATTRIBUTE
+
+  FRONT CAMERA (IMAGE PROCESSING)
+  REAR CAMERA (IMAGE PROCESSING)
+  VOICE PROCESSING (for passenger command)
+  SENSORS
+  SPEEDO METER
+  FUEL METER
+  DOOR LOCKER
+  AIR Pressue
+  TEMPRATURE METER (A/C or heater)
+  VEDIO RECORDER
+  AIRBAGS
+  WIPPER
+
+
+EXTERNAL CONDITIONS
+
+  ROAD CONDITIONS
+
+    shape_attribute#    straight
+                        curve
+    load_attribute#     elevated
+                        esclated
+    Surface_attribute#  rough
+                        muddy
+    //road conditions can be combination of A | B | C i.e straight + muddy + elevated
+
+  WEATHER CONDITIONS
+    NORMAL
+    COLD
+    HOT
+    RAINY
+    CLOUDY
+    THUNDERSTORM
+
+  ROUTE SERVICE
+    to decide route
+
+  GEOLOCATION_TIMING SERVICE
+
+  TRAFFIC CONDITIONS
+    PEOPLE DENSITY () ??
+    TRAFFICE SIGN PROCESSING
+    OBJECT PROCESSING
+    ??
+
+
+CAR JOURNEY LIFE CYCLE
+
+  START
+      At car start initializing its state
+      checking all the validity (insurance + rc + pollution + etc w.r.t region )
+      checking car health
+      giving instruction to move input Source -> Destination,
+
+  TRANSITION
+      while moving processing the data stream from camera and taking decision
+      Processing passenger command i.e car stop in between
+
+  STOP
+      Destination reached
+
+CORE RULE ENGINE
+  to process data stream in real time , taking decision and instructing car driving attribute i.e (STEERING | BREAK | ACCELERATION)
+    training the route (with detailed frame by frame 3d graph processing)
+    compute new objects
+
+Sending out the data stream for the GPS location to the command center ??
